@@ -21,7 +21,7 @@
                 </div>
             </div>
             <?php
-                include '../includes/top-navigation_apps.php';
+                include 'includes/top-navigation_apps.php';
             ?>
         </div>
     </div>
