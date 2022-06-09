@@ -8,23 +8,22 @@
     <title>ItechPro</title>
 </head>
 <body>
-    <div class="container">
-    <form>
-        <div class="mb-3">
-            <label for="exampleInputEmail1" class="form-label">Email address</label>
-            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <div class="container body">
+        <div class="main_container">
+            <div class="col-md-3 left_col menu_fixed">
+                <div class="left_col scroll-view">
+                    <div class="navbar nav_title" style="border: 0;">
+                        <a href="../neoindex/neoindex.php" class="site_title"><img style="width:55px" src="../images/logo_codelco.png" alt=""><span>&nbsp;APPSVP</span></a>
+                    </div>
+                    <div class="clearfix"></div>
+                        <!-- sidebar menu -->
+                        <?php include 'includes/sidebar_apps.php'; ?>
+                </div>
+            </div>
+            <?php
+                include '../includes/top-navigation_apps.php';
+            ?>
         </div>
-        <div class="mb-3">
-            <label for="exampleInputPassword1" class="form-label">Password</label>
-            <input type="password" class="form-control" id="exampleInputPassword1">
-        </div>
-        <div class="mb-3 form-check">
-            <input type="checkbox" class="form-check-input" id="exampleCheck1">
-            <label class="form-check-label" for="exampleCheck1">Check me out</label>
-        </div>
-        <button type="submit" class="btn btn-primary">Ingrsar</button>
-        </form>
     </div>
 
 </body>
