@@ -13,7 +13,7 @@
             <div class="col-md-3 left_col menu_fixed">
                 <div class="left_col scroll-view">
                     <div class="navbar nav_title" style="border: 0;">
-                        <a href="../neoindex/neoindex.php" class="site_title"><img style="width:55px" src="../images/logo_codelco.png" alt=""><span>&nbsp;APPSVP</span></a>
+                        <a href="../neoindex/neoindex.php" class="site_title"><img style="width:55px" src="images/logo_codelco.png" alt=""><span>&nbsp;APPSVP</span></a>
                     </div>
                     <div class="clearfix"></div>
                         <!-- sidebar menu -->
