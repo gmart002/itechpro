@@ -7,6 +7,6 @@
     <title>ItechPro</title>
 </head>
 <body>
-    INICIO. cambio 22 -h jajajaja
+    <div>HOLA</div>
 </body>
 </html>
