@@ -8,5 +8,6 @@
 </head>
 <body>
     <div>HOLA</div>
+    <script>alert 'HOLA'</script>
 </body>
 </html>
