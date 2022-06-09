@@ -7,7 +7,7 @@
     <title>ItechPro</title>
 </head>
 <body>
-    <div>HOLA</div>
+    <div>HOLA2</div>
     <script>alert 'HOLA'</script>
 </body>
 </html>
